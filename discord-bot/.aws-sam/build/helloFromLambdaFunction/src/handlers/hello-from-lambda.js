@@ -16,7 +16,7 @@ exports.helloFromLambdaHandler = async (event) => {
             "content":bitcoinResult.data.bpi.USD.rate,
             "embeds": [{
                   "image": {
-                    "url": "https://cdn.dribbble.com/users/430985/screenshots/1762272/attachments/286970/Arsene-Lupin_2.png"
+                    "url": "https://thecoinshark.net/uploads/750x500/2021/06/what-dogecoin-taught-us-and-how-it-influenced-the-future-of-finance.jpg"
                   }
                 }]
               
